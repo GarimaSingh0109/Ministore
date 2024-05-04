@@ -1,0 +1,994 @@
+{
+  "maincategory": [
+    {
+      "id": "aee9",
+      "name": "Beauty"
+    },
+    {
+      "id": "edfb",
+      "name": "Accessories"
+    },
+    {
+      "id": "2e1e",
+      "name": "Shoes"
+    },
+    {
+      "id": "8725",
+      "name": "Clothing"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "d2aa",
+      "name": "Trouser"
+    },
+    {
+      "id": "e8ce",
+      "name": "Tshirt"
+    },
+    {
+      "id": "b4bb",
+      "name": "Shirt"
+    },
+    {
+      "id": "cc88",
+      "name": "Jeans"
+    },
+    {
+      "id": "d85b",
+      "name": "Hair Care"
+    },
+    {
+      "id": "6dc1",
+      "name": "Make Up "
+    },
+    {
+      "id": "f7e7",
+      "name": "Skin Care"
+    },
+    {
+      "id": "3053",
+      "name": "Appliances"
+    },
+    {
+      "id": "4355",
+      "name": "Fragrances"
+    },
+    {
+      "id": "bd3b",
+      "name": "Men's Grooming"
+    },
+    {
+      "id": "d16a",
+      "name": "Shoes"
+    }
+  ],
+  "brand": [
+    {
+      "id": "989b",
+      "name": "Tommy Hilfiger"
+    },
+    {
+      "id": "42c6",
+      "name": "Puma"
+    },
+    {
+      "id": "fa1b",
+      "name": "Nike"
+    },
+    {
+      "id": "59d2",
+      "name": "Polo"
+    },
+    {
+      "id": "2a84",
+      "name": "Mufti"
+    },
+    {
+      "id": "50a8",
+      "name": "Cobb"
+    },
+    {
+      "id": "10dd",
+      "name": "Gucci"
+    },
+    {
+      "id": "5e65",
+      "name": "Zara"
+    },
+    {
+      "id": "c365",
+      "name": "H&M"
+    },
+    {
+      "id": "7d15",
+      "name": "Adidas"
+    },
+    {
+      "id": "15fd",
+      "name": "WOW"
+    },
+    {
+      "id": "c22c",
+      "name": "Mama Earth"
+    },
+    {
+      "id": "04e8",
+      "name": "Swiss Beauty"
+    },
+    {
+      "id": "b7af",
+      "name": "Loreal"
+    },
+    {
+      "id": "fc80",
+      "name": "Lakme"
+    },
+    {
+      "id": "cdce",
+      "name": "Maybelline"
+    },
+    {
+      "id": "09fd",
+      "name": "Dove"
+    },
+    {
+      "id": "8faf",
+      "name": "M Caffeine"
+    },
+    {
+      "id": "d8be",
+      "name": "Himalaya"
+    },
+    {
+      "id": "a1ae",
+      "name": "Philips"
+    },
+    {
+      "id": "502d",
+      "name": "Nova"
+    },
+    {
+      "id": "a1f9",
+      "name": "Waldon"
+    },
+    {
+      "id": "635f",
+      "name": "Havells"
+    }
+  ],
+  "product": [
+    {
+      "id": "2c86",
+      "name": "Male Jeans Slim Fit",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 6500,
+      "discount": 85,
+      "finalprice": 975,
+      "stock": "In Stock",
+      "description": "<p><strong><em><ins>Test</ins></em></strong></p>\n",
+      "pic": [
+        "p1.jpg",
+        "p2.jpg",
+        "p5.jpg",
+        "p7.jpg"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Male Jeans Slim Fit",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "30",
+      "baseprice": 9850,
+      "discount": 65,
+      "finalprice": 3447,
+      "stock": "In Stock",
+      "description": "<p><span style=\"color: rgb(230,126,35);\"><strong><em><ins>This is Sample Product</ins></em></strong></span></p>\n",
+      "pic": [
+        "p16.jpg",
+        "p25.jpg",
+        "p26.jpg",
+        "p38.jpg",
+        "p40.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Male Jeans Regular Fit",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 4500,
+      "discount": 50,
+      "finalprice": 2250,
+      "stock": "In Stock",
+      "description": "<p>This is a Sample Product</p>\n",
+      "pic": [
+        "p1.jpg",
+        "p2.jpg",
+        "p5.jpg",
+        "p7.jpg",
+        "p16.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Male Jeans Black",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 6500,
+      "discount": 65,
+      "finalprice": 2275,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p5.jpg",
+        "p7.jpg",
+        "p13.jpg",
+        "p15.jpg",
+        "p16.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Male Jeans Blue",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 48700,
+      "discount": 87,
+      "finalprice": 6331,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p25.jpg",
+        "p26.jpg",
+        "p38.jpg",
+        "p40.jpg",
+        "p41.jpg",
+        "p49.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Male Tshirt Polo",
+      "maincategory": "Clothing",
+      "subcategory": "Tshirt",
+      "brand": "Polo",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 4500,
+      "discount": 80,
+      "finalprice": 900,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p15.jpg",
+        "p24.jpg",
+        "p44.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Male Shirt Nike",
+      "maincategory": "Clothing",
+      "subcategory": "Shirt",
+      "brand": "Nike",
+      "color": "Green Check",
+      "size": "XL",
+      "baseprice": 4500,
+      "discount": 90,
+      "finalprice": 450,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p25.jpg",
+        "p26.jpg",
+        "p38.jpg",
+        "p40.jpg",
+        "p41.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Male Tshirt Black Adidas",
+      "maincategory": "Clothing",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "XXL",
+      "baseprice": 15000,
+      "discount": 80,
+      "finalprice": 3000,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p3.jpg",
+        "p51.jpg",
+        "p52.jpg",
+        "p54.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Male Trouser Polo",
+      "maincategory": "Clothing",
+      "subcategory": "Trouser",
+      "brand": "Polo",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 8500,
+      "discount": 85,
+      "finalprice": 1275,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p49.jpg",
+        "p50.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Female Jeans Slim Fit",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p32.jpg",
+        "p47.jpg",
+        "p53.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Female Jeans Mufti",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "28",
+      "baseprice": 8580,
+      "discount": 80,
+      "finalprice": 1716,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p9.jpg",
+        "p12.jpg",
+        "p19.jpg",
+        "p32.jpg",
+        "p53.jpg",
+        "p55.jpg"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Female Tshirt Adidas",
+      "maincategory": "Clothing",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p8.jpg",
+        "p9.jpg",
+        "p19.jpg",
+        "p22.jpg",
+        "p23.jpg",
+        "p28.jpg",
+        "p39.jpg"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Female Tshirt White Mufti",
+      "maincategory": "Clothing",
+      "subcategory": "Tshirt",
+      "brand": "Mufti",
+      "color": "White",
+      "size": "M",
+      "baseprice": 2500,
+      "discount": 85,
+      "finalprice": 375,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p6.jpg",
+        "p8.jpg",
+        "p9.jpg",
+        "p22.jpg",
+        "p23.jpg",
+        "p28.jpg"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Female Shirt Gucci",
+      "maincategory": "Clothing",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "M",
+      "baseprice": 8585,
+      "discount": 25,
+      "finalprice": 6438,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p70.jpg",
+        "p71.jpg",
+        "p72.jpg"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Kids Jeans Tommy Hilfiger",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "26",
+      "baseprice": 5000,
+      "discount": 50,
+      "finalprice": 2500,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p58.jpg",
+        "p59.jpg",
+        "p60.jpg",
+        "p61.jpg"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Male Tshirt Cobb",
+      "maincategory": "Clothing",
+      "subcategory": "Tshirt",
+      "brand": "Cobb",
+      "color": "Black",
+      "size": "LG",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p3.jpg",
+        "p15.jpg",
+        "p16.jpg",
+        "p24.jpg",
+        "p51.jpg",
+        "p52.jpg",
+        "p54.jpg"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Male Tshirt Regular Fit",
+      "maincategory": "Clothing",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "M",
+      "baseprice": 8585,
+      "discount": 85,
+      "finalprice": 1287,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p1.jpg",
+        "p2.jpg",
+        "p3.jpg",
+        "p10.jpg",
+        "p24.jpg",
+        "p54.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Male Jeans Ripped",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "32",
+      "baseprice": 9850,
+      "discount": 50,
+      "finalprice": 4925,
+      "stock": "In Stock",
+      "description": "<p>This is Sample Product</p>\n",
+      "pic": [
+        "p1.jpg",
+        "p2.jpg",
+        "p5.jpg",
+        "p11.jpg",
+        "p13.jpg"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Male Jeans Slim  Fit",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 7800,
+      "discount": 78,
+      "finalprice": 1716,
+      "stock": "In Stock",
+      "description": "<h3>Product details</h3>\n<p style=\"text-align:left;\"><strong>Material type  </strong> Cotton</p>\n<p><strong>Style   </strong> Classic</p>\n<p><strong>Closure type </strong> Button</p>\n<p><strong>Occasion type</strong> Casual</p>\n<p><strong>Care instructions</strong> Machine Wash</p>\n<p style=\"text-align:left;\"><strong>Fit type  </strong> Regular</p>\n<h3>About this item</h3>\n<ul>\n<li>Fabric Care Description :: 100% Cotton, Machine wash</li>\n<li>Fit Type :: Regular Fit</li>\n<li>Rise Type :: Mid Rise</li>\n<li>Closure Type :: Button &amp; Zip</li>\n<li>Stretchability :: Non stretchable</li>\n</ul>\n<h3>Additional Information</h3>\n<p></p>\n<p></p>\n<p>Manufacturer</p>\n<p>Raymond Uco Denim Pvt Ltd D1 &amp; D2, Apparel Park,,Bangalore,561203,IN, Raymond Uco Denim Pvt Ltd</p>\n",
+      "pic": [
+        "p11.jpg",
+        "p16.jpg",
+        "p41.jpg",
+        "p49.jpg"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Male jeans Adidas",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>These <strong>Adidas </strong>jeans are a must-have for any man looking for a classic, versatile pair. Made from a soft, stretchy cotton fabric, they are designed to be comfortable and breathable.</p>\n<p>The mid-blue wash gives them a one-of-a-kind look that will keep them fashion-forward. Add on a denim jacket and sneakers for a classic combination.</p>\n",
+      "pic": [
+        "p1.jpg",
+        "p2.jpg",
+        "p5.jpg",
+        "p7.jpg",
+        "p44.jpg",
+        "p49.jpg"
+      ]
+    },
+    {
+      "id": "a483",
+      "name": "Kids Jeans Cobb",
+      "maincategory": "Clothing",
+      "subcategory": "Jeans",
+      "brand": "Cobb",
+      "color": "Black",
+      "size": "24",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>Test Product</p>\n",
+      "pic": [
+        "p42.jpg",
+        "p43.jpg",
+        "p62.jpg",
+        "p63.jpg",
+        "p64.jpg",
+        "p65.jpg",
+        "p66.jpg",
+        "p67.jpg"
+      ]
+    },
+    {
+      "id": "2f6c",
+      "name": "Puma Shuffle Mid Casual Shoe",
+      "maincategory": "Shoes",
+      "subcategory": "Shoes",
+      "brand": "Puma",
+      "color": "Puma White-High Risk Red-Peacoat-Puma Team Gold",
+      "size": "6.5 UK",
+      "baseprice": 5999,
+      "discount": 70,
+      "finalprice": 1799,
+      "stock": "In Stock",
+      "description": "<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\"><strong>Product details</strong></span></h3>\n<ul>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Material type : Faux Leather, Suede, Rubber</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Closure type : Lace-Up</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Heel type : Flat</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Water resistance level : Not Water Resistant</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Sole material : Suede, Rubber</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Style : Sneaker</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Country of Origin : India</span></li>\n</ul>\n<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\"><strong>About this item</strong></span></h3>\n<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Style Name:-Sneakers</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Model Name:-Shuffle Mid</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Brand Color:-Puma White-High Risk Red-Peacoat-Puma Team Gold</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Activity Group:-Basics</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Care Instructions:-Wipe with a clean dry cloth</span></li>\n</ul>\n<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\"><strong>Additional Information</strong></span></h3>\n<p style=\"margin-left:-140px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Manufacturer : Puma, Putian Baiho Footwear Co., LTD. No.1518, GUCHENG EAST ROAD, HU ANGSHI TOWN, LICHENG DISTRICT, 351144 Putian</span></p>\n<p><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Packer : Puma Sports India Pvt Ltd</span></p>\n<p><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Importer : Puma Sports India Pvt Ltd</span></p>\n<p style=\"margin-left:-140px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Item Weight : 1 kg 200 g</span></p>\n<p style=\"margin-left:-140px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Item Dimensions LxWxH : 27.5 x 21.5 x 10 Centimeters</span></p>\n<p style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Generic Name : Casual Shoe</span>&nbsp;</p>\n",
+      "pic": [
+        "s1.jpg",
+        "s2.jpg",
+        "s3.jpg",
+        "s4.jpg"
+      ]
+    },
+    {
+      "id": "b11a",
+      "name": "Puma  Dare  Sneaker",
+      "maincategory": "Shoes",
+      "subcategory": "Shoes",
+      "brand": "Puma",
+      "color": "Black-White",
+      "size": "7 UK",
+      "baseprice": 3999,
+      "discount": 55,
+      "finalprice": 1799,
+      "stock": "In Stock",
+      "description": "<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\"><strong>Product details</strong></span></h3>\n<ul>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Material type : Mesh</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Closure type : Lace-Up</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Heel type : Flat</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Water resistance level : Not Water Resistant</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Sole material : Rubber</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Style : Walking</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Country of Origin : India</span></li>\n</ul>\n<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\"><strong>About this item</strong></span></h3>\n<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Style Name:-Walking Shoe</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Model Name:-Dare</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Brand Color:-Black-White</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Activity Group:-Basics</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Wipe with a clean dry cloth</span></li>\n</ul>\n<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\"><strong>Additional Information</strong></span></h3>\n<p style=\"margin-left:-140px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Manufacturer: Puma, MARU CHUEN (CAMBODIA) CORP.,LTD. PREY SOR,PHUM TRAPEANG RUMCHEK 1241 PHNOM PENH, Cambodia</span></p>\n<p><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Packer : Puma Sports India Pvt Ltd</span></p>\n<p><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Importer : Puma Sports India Pvt Ltd</span></p>\n<p style=\"margin-left:-140px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Item Weight : 399 g</span></p>\n<p><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Item Dimensions LxWxH : 25.5 x 19.5 x 8 Centimeters</span></p>\n<p><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Net Quantity : 1 Count</span></p>\n<p><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Generic Name : Sneaker</span>&nbsp;</p>\n",
+      "pic": [
+        "s6.jpg",
+        "s7.jpg",
+        "s8.jpg",
+        "s9.jpg",
+        "s10.jpg",
+        "s11.jpg"
+      ]
+    },
+    {
+      "id": "6c03",
+      "name": "Women Fashion Casual Boot ",
+      "maincategory": "Shoes",
+      "subcategory": "Shoes",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "5 UK ",
+      "baseprice": 1198,
+      "discount": 53,
+      "finalprice": 563,
+      "stock": "Out Of Stock",
+      "description": "<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\"><strong>Product details</strong></span></h3>\n<ul>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Shaft height : Ankle</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Material type : Polyvinyl Chloride </span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Heel type : Platform Heel </span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Closure type : Lace-Up</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Water resistance level : Not Water Resistant</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Toe style : Round Toe</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Country of Origin : India</span></li>\n</ul>\n<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\"><strong>About this item</strong></span></h3>\n<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Lifestyle: Perfect Pair of Round-Toe</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">All Longwalk products are meant to deliver high performance, durability and great comfort.</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">The Footwear are designed to provide grip, stability and comfort at work or anywhere</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Casual Shoe has Regular styling, Lace-Up detail</span></li>\n</ul>\n<h3 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember;\">Additional Information</span></h3>\n<ul>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Manufacturer : Upper Circuit Trading LLP, UPPER CIRCUIT TRADING LLP 715, Gali No.- 2, Shahbaad Daulatpr Near DTU Delhi- 110042</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Packer : Upper Circuit Trading LLP </span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Importer : UPPER CIRCUIT TRADING LLP, 715, Gali No.- 2, Shahbaad Daulatpur Near DTU College Delhi- 110042 </span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Item Weight : 380 g </span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Item Dimensions LxWxH : 22 x 8 x 8 Centimeters</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Net Quantity : 1 pair</span></li>\n<li><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Generic Name : Ankle Boot</span>&nbsp;</li>\n</ul>\n",
+      "pic": [
+        "s12.jpg",
+        "s13.jpg",
+        "s14.jpg",
+        "s15.jpg"
+      ]
+    },
+    {
+      "id": "9897",
+      "name": "Dove Butter Body Wash ",
+      "maincategory": "Beauty",
+      "subcategory": "Skin Care",
+      "brand": "Dove",
+      "color": "White",
+      "size": "NA",
+      "baseprice": 849,
+      "discount": 40,
+      "finalprice": 509,
+      "stock": "In Stock",
+      "description": "<h1 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 18px;font-family: Amazon Ember\", Arial, sans-serif;\"><strong>About this item</strong></span></h1>\n<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember\", Arial, sans-serif;\">NOT JUST A BODY WASH, IT’S ADove Shea Butter &amp; Vanilla Relaxing Care Nourishing Body Wash is a unique blend of naturally derived cleansers and plant-based moisturizer that effectively cleanses your body while also nourishing</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember\", Arial, sans-serif;\">NUTRIM MOISTUREInfused with Dove’s unique formula, Nutrium Moisture, containing the same moisturizing ingredients as lotions, this moisturizing mild shower gel deeply nourishes your skin while also strengthening the skin’s natural moisture barrier</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember\", Arial, sans-serif;\">INDULGE YOURSWith rich, creamy lather and a soothing blend of Shea Butter &amp; Vanilla scent, Dove Body Cleanser indulges you in a relaxing shower experience while leaving your skin softer and smoother; NATUREnriched with the extracts of Shea Butter &amp; Vanilla to give your skin the needed nourishment. While Shea Butter helps boost the skin moisture and soothe skin, the Vanilla extract helps reverse the skin damage</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember\", Arial, sans-serif;\">GEMade with the goodness &amp; care of nature, Dove Body Wash reaches deep into the skin to wash out impurities and hydrate skin from within, giving the skin a refreshing feel. Your confidence lies in you. Pamper it well</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember\", Arial, sans-serif;\">Ingredients: Water (Aqua), Cocamidopropyl Betaine, Sodium Laureth Sulfate, Sodium Cocoyl Glycinate, Sodium Chloride, Glycerin, Perfume (Fragrance), Sodium Cocoyl Isethionate, Phenoxyethanol, Stearic Acid, Styrene/Acrylates Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Lauric Acid, Coconut Acid, Sodium Hydroxide, Acrylates/Steareth-20 Methacrylate Crosspolymer, Butylated Hydroxytoluene, Sodium Benzoate, Tetrasodium Edta, Sodium Isethionate, Peg-4 Dilaurate, Peg-4 Laurate, Citric Acid, Sodium Lauryl Sulfate, Lodopropyny| Butylcarbamate, Peg-4, Butyrospermum Parkii (Shea) Butter, Sodium Sulfate, Benzyl Alcohol, Coumarin, Hexyl Cinnamal, Limonene, Linalool, Ci 17200, Ci 19140</span>&nbsp;</li>\n</ul>\n",
+      "pic": [
+        "b1.jpg"
+      ]
+    },
+    {
+      "id": "0c9c",
+      "name": "Philips Hair Straightener",
+      "maincategory": "Accessories",
+      "subcategory": "Hair Care",
+      "brand": "Philips",
+      "color": "Purple-Black",
+      "size": "NA",
+      "baseprice": 3795,
+      "discount": 8,
+      "finalprice": 3491,
+      "stock": "In Stock",
+      "description": "<h1 style=\"text-align:start;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 16px;font-family: Amazon Ember;\"><strong>About this item</strong></span></h1>\n<ul>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Specially designed with Kerashine care and hair nourishing Vitamin E and Moroccan Argan oil serum strips that act as a heat protectant.</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Moisture lock forms a protective film on hair and prevents water loss caused due to heat</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Kerashine titanium plates allows for fast and optimized heat transfer for beautiful styling performance and ultra smooth gliding for visibly shiny silky salon-like hair</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Ionic care eliminates static, conditions the hair and smooths down the hair cuticles to intensify the hair's shine and glossiness resulting in frizz-free hair with a vibrant shine</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">For better result, ensure strips are facing down towards hair ends and press the handles firmly together. Serum strips are effective and advised to be used for one styling session. Replace them each time you style.</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">The serum strip brackets are simple to remove for cleaning and easy to click back on for your next styling session</span></li>\n<li style=\"margin-left:0px;\"><span style=\"color: rgb(15,17,17);background-color: rgb(255,255,255);font-size: 14px;font-family: Amazon Ember;\">Includes 2 pairs of serum strips &amp; 1 pair of serum brackets | 2 years worldwide warranty</span>&nbsp;</li>\n</ul>\n",
+      "pic": [
+        "a1.jpg"
+      ]
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "ee6f",
+      "name": "Garima",
+      "message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione quaerat delectus illum laudantium impedit in quibusdam sint! Ratione, doloribus fugit sequi pariatur et earum molestiae fugiat magnam omnis provident, architecto at numquam corrupti reprehenderit nobis!  dignissimos similique, impedit laborum earum non, consequatur quis quod. Quos, perferendis!",
+      "star": "5",
+      "pic": "p1.jpg"
+    },
+    {
+      "id": "d86e",
+      "name": "Deepak Singh Gusain",
+      "message": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione quaerat delectus illum laudantium impedit in quibusdam sint! Ratione, doloribus fugit sequi pariatur et earum molestiae fugiat magnam omnis provident, architecto at numquam corrupti reprehenderit nobis! Laboriosam voluptates, velit eligendi et laudantium dolores reprehenderit sed at recusandae optio aliquam! Accusantium accusamus architecto eligendi reprehenderit dignissimos cum aperiam, suscipit adipisci, autem explicabo saepe possimus. Exercitationem aperiam animi nobis iure quo non aspernatur dolore amet consequatur perferendis corporis neque placeat nemo quae enim nihil, eveniet quam error?",
+      "star": "5",
+      "pic": "p2.jpg"
+    },
+    {
+      "id": "b2e8",
+      "name": "Sanya Dixit",
+      "message": "Ratione quaerat delectus illum laudantium impedit in quibusdam sint! Ratione, doloribus fugit sequi pariatur et earum molestiae fugiat magnam omnis provident, architecto at numquam corrupti reprehenderit nobis! Laboriosam voluptates, velit eligendi et laudantium dolores reprehenderit sed at recusandae optio aliquam! Accusantium accusamus architecto eligendi reprehenderit dignissimos cum aperiam, suscipit adipisci, autem explicabo saepe possimus. Exercitationem aperiam animi nobis iure quo non aspernatur dolore amet consequatur perferendis corporis neque placeat nemo quae enim nihil, eveniet quam error? Amet distinctio dicta accusamus quos, dignissimos similique, impedit laborum earum non, consequatur quis quod. Quos, perferendis!",
+      "star": "5",
+      "pic": "p24.jpg"
+    }
+  ],
+  "user": [
+    {
+      "name": "Garima Singh",
+      "phone": "7988058352",
+      "address": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "id": "2602",
+      "username": "garimasingh197",
+      "email": "poorvasingh698@gmail.com",
+      "password": "123456789",
+      "role": "Buyer"
+    },
+    {
+      "id": "af56",
+      "name": "Garima Singh",
+      "username": "gs_212",
+      "email": "garima26@gmail.com",
+      "phone": "9123456789",
+      "password": "0987654321",
+      "role": "Admin"
+    },
+    {
+      "name": "Kids jeans",
+      "phone": "7988058352",
+      "address": "Sector-56",
+      "pin": "201301",
+      "city": "NOIDA",
+      "state": "UTTAR PRADESH",
+      "pic": "banner2.png",
+      "id": "8f07",
+      "username": "gfd",
+      "email": "garimasingh103@gmail.com",
+      "password": "asdfghjkl",
+      "role": "Buyer"
+    }
+  ],
+  "cart": [
+    {
+      "id": "fef4",
+      "productid": "6c03",
+      "userid": null,
+      "name": "Women Fashion Casual Boot ",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "5 UK ",
+      "price": 563,
+      "qty": 4,
+      "total": 2252,
+      "pic": "s12.jpg"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "a8cf",
+      "productid": "9897",
+      "userid": "2602",
+      "name": "Dove Butter Body Wash ",
+      "brand": "Dove",
+      "color": "White",
+      "size": "NA",
+      "price": 509,
+      "pic": "b1.jpg"
+    },
+    {
+      "id": "5186",
+      "productid": "0c9c",
+      "userid": "af56",
+      "name": "Philips Hair Straightener",
+      "brand": "Philips",
+      "color": "Purple-Black",
+      "size": "NA",
+      "price": 3491,
+      "pic": "a1.jpg"
+    },
+    {
+      "id": "c92e",
+      "productid": "a483",
+      "userid": "8f07",
+      "name": "Kids Jeans Cobb",
+      "brand": "Cobb",
+      "color": "Black",
+      "size": "24",
+      "price": 2475,
+      "pic": "p42.jpg"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "3439",
+      "userid": "2602",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 563,
+      "shipping": 150,
+      "total": 713,
+      "date": "2024-03-28T09:55:05.657Z",
+      "products": [
+        {
+          "id": "2be5",
+          "productid": "6c03",
+          "userid": "2602",
+          "name": "Women Fashion Casual Boot ",
+          "brand": "Nike",
+          "color": "Black",
+          "size": "5 UK ",
+          "price": 563,
+          "qty": 1,
+          "total": 563,
+          "pic": "s12.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4b2f",
+      "userid": "2602",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 11728,
+      "shipping": 0,
+      "total": 11728,
+      "date": "2024-03-28T09:57:23.817Z",
+      "products": [
+        {
+          "id": "cddc",
+          "productid": "13",
+          "userid": "2602",
+          "name": "Female Shirt Gucci",
+          "brand": "Gucci",
+          "color": "White",
+          "size": "M",
+          "price": 6438,
+          "qty": 1,
+          "total": 6438,
+          "pic": "p70.jpg"
+        },
+        {
+          "id": "1357",
+          "productid": "0c9c",
+          "userid": "2602",
+          "name": "Philips Hair Straightener",
+          "brand": "Philips",
+          "color": "Purple-Black",
+          "size": "NA",
+          "price": 3491,
+          "qty": 1,
+          "total": 3491,
+          "pic": "a1.jpg"
+        },
+        {
+          "id": "864b",
+          "productid": "2f6c",
+          "userid": "2602",
+          "name": "Puma Shuffle Mid Casual Shoe",
+          "brand": "Puma",
+          "color": "Puma White-High Risk Red-Peacoat-Puma Team Gold",
+          "size": "6.5 UK",
+          "price": 1799,
+          "qty": 1,
+          "total": 1799,
+          "pic": "s1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5315",
+      "userid": "af56",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 563,
+      "shipping": 150,
+      "total": 713,
+      "date": "2024-03-28T10:15:26.680Z",
+      "products": [
+        {
+          "id": "7914",
+          "productid": "6c03",
+          "userid": "af56",
+          "name": "Women Fashion Casual Boot ",
+          "brand": "Nike",
+          "color": "Black",
+          "size": "5 UK ",
+          "price": 563,
+          "qty": 1,
+          "total": 563,
+          "pic": "s12.jpg"
+        }
+      ]
+    },
+    {
+      "id": "195f",
+      "userid": "8f07",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 2252,
+      "shipping": 0,
+      "total": 2252,
+      "date": "2024-03-04T14:51:00.661Z",
+      "products": [
+        {
+          "id": "f524",
+          "productid": "6c03",
+          "userid": "8f07",
+          "name": "Women Fashion Casual Boot ",
+          "brand": "Nike",
+          "color": "Black",
+          "size": "5 UK ",
+          "price": 563,
+          "qty": 4,
+          "total": 2252,
+          "pic": "s12.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ece1",
+      "userid": "8f07",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 4107,
+      "shipping": 0,
+      "total": 4107,
+      "date": "2024-03-04T14:51:46.351Z",
+      "products": [
+        {
+          "id": "823b",
+          "productid": "2f6c",
+          "userid": "8f07",
+          "name": "Puma Shuffle Mid Casual Shoe",
+          "brand": "Puma",
+          "color": "Puma White-High Risk Red-Peacoat-Puma Team Gold",
+          "size": "6.5 UK",
+          "price": 1799,
+          "qty": 2,
+          "total": 3598,
+          "pic": "s1.jpg"
+        },
+        {
+          "id": "6e33",
+          "productid": "9897",
+          "userid": "8f07",
+          "name": "Dove Butter Body Wash ",
+          "brand": "Dove",
+          "color": "White",
+          "size": "NA",
+          "price": 509,
+          "qty": 1,
+          "total": 509,
+          "pic": "b1.jpg"
+        }
+      ]
+    }
+  ],
+  "newsletter": [],
+  "contactus": [
+    {
+      "id": "500e",
+      "name": "Garima",
+      "email": "garima26@gmail.com",
+      "phone": "9876543219",
+      "subject": "wertyu",
+      "message": "qwertyuiop",
+      "date": "2024-03-04T14:47:58.097Z",
+      "active": true
+    }
+  ]
+}
