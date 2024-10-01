@@ -18,6 +18,10 @@ Ministore is a modern, lightweight e-commerce web application designed to provid
 ---
 **Responsive Design:** Optimized for both desktop and mobile devices, ensuring a smooth shopping experience on any screen size.
 ---
+**Feedback:** The customer can provide his or her valuable feedback and it will be visible to the shopkeeper
+---
+**Inventory Management System:** For the ease of shopkeeper we provide Inventory Management System so that they can keep track of there sale.
+---
 **Payment Gateway:** Various Payment methods are available for the customer for ease of payment. 
 ---
 **Billing:** Customer will also get bills for there purchase.
